@@ -15,6 +15,9 @@
 Cromite是一个 [Chromium](https://www.chromium.org/Home) 基于的分支 [Bromite](https://github.com/bromite/bromite) 内置支持广告拦截，并关注隐私。
 
 Cromite适用于Android arm64-v8a、arm32-v7a和x86_64，Oreo及以上版本（最低v8.0，API级别26），Windows和Linux 64位。
+
+# 中文汉化版 针对中国爱好者专门汉化的版本
+
 # Goals
 Cromite的目标是：
 - 限制浏览器内置的可用于跟踪用户习惯的平台功能，如果技术上不可行，则禁用这些功能，并由用户选择是否重新启用它们。
